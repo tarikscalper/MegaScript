@@ -1,0 +1,22 @@
+# Файли з гаманцями і одержувачами (ніколи не пушити!)
+wallets.txt
+recipients.txt
+
+# Логи
+success_log.txt
+error_log.txt
+
+# Python кеші
+__pycache__/
+*.py[cod]
+
+# Індексація IDE
+.idea/
+.vscode/
+
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Інше зайве
+*.log
